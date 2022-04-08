@@ -1,8 +1,8 @@
 {
-  "Nickname": "KZNPCPatchers",
-  "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
-  "PreferredAutoVersioning": "Default",
-  "RequiredMods": []
+   "Nickname": "KZNPCPatchers",
+   "Visibility": "Visible",
+   "OneLineDescription": "Patch your modded beat race npcs with KZ-style npc or any vanilla beast race replacer of choice.",
+   "LongDescription": "Patch your selected mod with whatever beast NPC replacer, Overhaul you're using. Designed with KZNPC in mind but should work with any vanilla beast race overhaul.",
+   "PreferredAutoVersioning": "Default",
+   "RequiredMods": []
 }
